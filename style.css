@@ -1,0 +1,90 @@
+.card{
+  width: 45rem;
+  margin: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.division{
+  width: 45rem;
+  margin: auto;
+}
+.card-body{
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+}
+
+.w3-button{
+  background-color:#312c51;
+  color: white;
+  font-family:Georgia;
+}
+
+.td1{
+  width:30%;
+}
+
+.td2{
+  font-size: 15px;
+  width:70%;
+}
+
+.lang{
+  width:70%;
+}
+table{
+  width: 100%;
+}
+
+footer{
+  background-color: #f6f6f6;
+  margin: auto;
+  padding-left: 45%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  font-size: 1.5rem;
+}
+
+.social{
+  padding-right: 50px;
+  color: #aa8976;
+}
+
+.download{
+  padding-left: 10px;
+  color:#312c51;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+	color: #1a508b;
+}
+
+h4{
+	color: #48426d;
+}
+
+body{
+  background-color: #ffe2e2;
+  font-family:"Helvetica";
+}
+
+.jumbotron{
+  background-color: #f5f4f4;
+  border-left:0px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.fa-home{
+  padding-left: 825px;
+  color: #312c51;
+}
+
+.fa-marker{
+  color: #825959;
+}
